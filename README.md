@@ -1,5 +1,7 @@
 # TUGAS PRAKTIKUM PBK PERTEMUAN 4
 
+![preview img](/screenshot.png)
+
 ```
 Yardan Hadziq
 4F
